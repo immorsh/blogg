@@ -15,4 +15,3 @@ rails c
 ```
 Vous pourrez alors accéder aux différentes tables de la bdd.
 
-### Done by Tony KINO aka @Tony 
